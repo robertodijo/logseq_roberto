@@ -19,11 +19,6 @@
 :created_at: 1610119809222
 :last_modified_at: 1610119809222
 :END:
-** [[Jan 19th, 2021]]
-:PROPERTIES:
-:last_modified_at: 1610118986019
-:created_at: 1610118972900
-:END:
 **
 :PROPERTIES:
 :last_modified_at: 1610119844947
