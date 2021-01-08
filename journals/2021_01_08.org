@@ -1,3 +1,14 @@
 #+TITLE: Jan 8th, 2021
 
-** 
+** TODO kasten van de woonkamer naar de zolder verplaatsen
+:PROPERTIES:
+:todo: 1610118807228
+:END:
+** LATER Yamaha piano naar de zolder verplaatsen
+:PROPERTIES:
+:later: 1610118836447
+:END:
+** LATER 
+:PROPERTIES:
+:later: 1610118843904
+:END:
