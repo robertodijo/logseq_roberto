@@ -6,21 +6,27 @@
 :created_at: 1610185247816
 :todo: 1610118807228
 :END:
-** TODO Yamaha piano naar de zolder verplaatsen
+** DONE Yamaha piano naar de zolder verplaatsen
 :PROPERTIES:
-:last_modified_at: 1610185275395
+:last_modified_at: 1610185294197
 :created_at: 1610185251552
-:later: 1610118836447
 :todo: 1610185275393
+:later: 1610118836447
+:done: 1610185294195
 :END:
-** TODO lade kast uit de garage naar de zolder verplaatsen
+** DONE lade kast uit de garage naar de zolder verplaatsen
 :PROPERTIES:
-:later: 1610118843904
-:todo: 1610185287956
+:last_modified_at: 1610185291084
 :created_at: 1610185287958
-:last_modified_at: 1610185287958
+:todo: 1610185287956
+:later: 1610118843904
+:done: 1610185291083
 :END:
 **
+:PROPERTIES:
+:created_at: 1610185291001
+:last_modified_at: 1610185291001
+:END:
 ** dit is een plaatje
 :PROPERTIES:
 :created_at: 1610134733598
