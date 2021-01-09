@@ -13,9 +13,12 @@
 :later: 1610118836447
 :todo: 1610185275393
 :END:
-** LATER lade kast uit de garage naar de zolder verplaatsen
+** TODO lade kast uit de garage naar de zolder verplaatsen
 :PROPERTIES:
 :later: 1610118843904
+:todo: 1610185287956
+:created_at: 1610185287958
+:last_modified_at: 1610185287958
 :END:
 **
 ** dit is een plaatje
