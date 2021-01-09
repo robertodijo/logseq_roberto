@@ -14,18 +14,12 @@
 :END:
 **
 ** dit is een plaatje
-*** [[https://cdn.logseq.com/%2Fbb22dc69-6ded-4587-83bd-f941a82075062d00cef8-97b0-46ec-a863-a2b1cd3fe4532021_01_08_image.png?Expires=4763718910&Signature=KAcpYvS8ypS8sXGGgBdJVSJtrUEEc1gPxoRwiBpBW4JjQAYOkqsrsEBUxFXg5H09WrIJ1kBWSxcy4jymjiOaR0oMooWHGEoX1uX5SUo5BPKq2wCLZK7c890SjgUbxzPCtvz3QZ9IIKE0UkaDU7pW3DLQarfTLWa2JMPibyILtks-RE-uyJKQAKTvy-VuQuaQAuuWoZMz-HIz9cfvrqP~z22rFkf8cKGocytRZbCWJRhRSU2KrTsbxlIPHl6rWCpMORuJShcaRlD-GeT0pF7CtY5rwnVVmoJBynT8lPmVoEc9Ez7darZiyMwhyVxqnMuhe8otRXjvXlrkcpG~oMymIw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2021_01_08_image.png]]
 :PROPERTIES:
-:created_at: 1610119809222
-:last_modified_at: 1610119809222
-:END:
-** [[Jan 19th, 2021]]
-:PROPERTIES:
-:last_modified_at: 1610118986019
-:created_at: 1610118972900
+:created_at: 1610134733598
+:last_modified_at: 1610134733598
 :END:
 **
 :PROPERTIES:
-:last_modified_at: 1610119844947
+:last_modified_at: 1610134735714
 :created_at: 1610119013821
 :END:
